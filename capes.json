@@ -1,0 +1,96 @@
+{
+    "inner": [
+        {
+            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
+            "name": "asoji"
+        },
+        {
+            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
+            "name": "BluSpring"
+        },
+        {
+            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
+            "name": "CephalonCosmic"
+        },
+        {
+            "id": "e67eb09a-b5af-4822-b756-9065cdc49913",
+            "name": "IThundxr"
+        }
+    ],
+    "softer": [
+        {
+            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
+            "name": "asoji"
+        },
+        {
+            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
+            "name": "BluSpring"
+        },
+        {
+            "id": "e67eb09a-b5af-4822-b756-9065cdc49913",
+            "name": "IThundxr"
+        },
+        {
+            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
+            "name": "CephalonCosmic"
+        },
+        {
+            "id": "bd7e2c04-9d9d-4d42-b60d-ed784c4c2cd0",
+            "name": "bluebeargreen"
+        },
+        {
+            "id": "4ca402bd-1251-4931-b92c-46464ff11392",
+            "name": "SirOwlie"
+        },
+        {
+            "id": "3d60771c-b620-4719-bf44-3b038bcbf246",
+            "name": "ZenithKnight"
+        },
+        {
+            "id": "34e114a0-4a62-408b-a748-be1098e46cf0",
+            "name": "CARTER_1234"
+        },
+        {
+            "id": "ecb30131-6f4a-4bb8-85ae-6b6c6fc08566",
+            "name": "Stereo528"
+        }
+    ],
+    "desolated": [
+        {
+            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
+            "name": "asoji"
+        },
+        {
+            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
+            "name": "BluSpring"
+        },
+        {
+            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
+            "name": "CephalonCosmic"
+        },
+        {
+            "id": "bd7e2c04-9d9d-4d42-b60d-ed784c4c2cd0",
+            "name": "bluebeargreen"
+        },
+        {
+            "id": "4ca402bd-1251-4931-b92c-46464ff11392",
+            "name": "SirOwlie"
+        },
+        {
+            "id": "3d60771c-b620-4719-bf44-3b038bcbf246",
+            "name": "ZenithKnight"
+        },
+        {
+            "id": "34e114a0-4a62-408b-a748-be1098e46cf0",
+            "name": "CARTER_1234"
+        },
+        {
+            "id": "ecb30131-6f4a-4bb8-85ae-6b6c6fc08566",
+            "name": "Stereo528"
+        },
+        {
+            "id": "4a69324d-bd3c-4052-8969-df3d486774f1",
+            "name": "LizzyTheWitch"
+        }
+    ]
+}
