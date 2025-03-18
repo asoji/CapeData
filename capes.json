@@ -40,10 +40,11 @@
     {
         "username": "CephalonCosmic",
         "uuid": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
-        "reason": "Helped with code, also playtest",
+        "reason": "Helped with code, also added Mallard food and egg throwables, also playtest",
         "capes": [
             "inner",
-            "softer"
+            "softer",
+            "desolated"
         ]
     },
     {
@@ -95,6 +96,14 @@
         "reason": "Helped with some code and feedback",
         "capes": [
             "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "Stifya",
+        "uuid": "da2b241a-4b03-4bc5-a184-336fbc2a6c47",
+        "reason": "Contributed Mallard food textures",
+        "capes": [
             "desolated"
         ]
     },
