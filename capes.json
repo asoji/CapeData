@@ -1,104 +1,111 @@
-{
-    "inner": [
-        {
-            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
-            "name": "asoji"
-        },
-        {
-            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
-            "name": "BluSpring"
-        },
-        {
-            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
-            "name": "CephalonCosmic"
-        },
-        {
-            "id": "e67eb09a-b5af-4822-b756-9065cdc49913",
-            "name": "IThundxr"
-        }
-    ],
-    "softer": [
-        {
-            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
-            "name": "asoji"
-        },
-        {
-            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
-            "name": "BluSpring"
-        },
-        {
-            "id": "e67eb09a-b5af-4822-b756-9065cdc49913",
-            "name": "IThundxr"
-        },
-        {
-            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
-            "name": "CephalonCosmic"
-        },
-        {
-            "id": "bd7e2c04-9d9d-4d42-b60d-ed784c4c2cd0",
-            "name": "bluebeargreen"
-        },
-        {
-            "id": "4ca402bd-1251-4931-b92c-46464ff11392",
-            "name": "SirOwlie"
-        },
-        {
-            "id": "3d60771c-b620-4719-bf44-3b038bcbf246",
-            "name": "ZenithKnight"
-        },
-        {
-            "id": "34e114a0-4a62-408b-a748-be1098e46cf0",
-            "name": "CARTER_1234"
-        },
-        {
-            "id": "ecb30131-6f4a-4bb8-85ae-6b6c6fc08566",
-            "name": "Stereo528"
-        },
-        {
-            "id": "ad2ebdb9-c7be-4aa3-9241-85d145470625",
-            "name": "ProtFox"
-        }
-    ],
-    "desolated": [
-        {
-            "id": "2036c4da-effa-4982-8c74-37190cfb30d5",
-            "name": "asoji"
-        },
-        {
-            "id": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
-            "name": "BluSpring"
-        },
-        {
-            "id": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
-            "name": "CephalonCosmic"
-        },
-        {
-            "id": "bd7e2c04-9d9d-4d42-b60d-ed784c4c2cd0",
-            "name": "bluebeargreen"
-        },
-        {
-            "id": "4ca402bd-1251-4931-b92c-46464ff11392",
-            "name": "SirOwlie"
-        },
-        {
-            "id": "3d60771c-b620-4719-bf44-3b038bcbf246",
-            "name": "ZenithKnight"
-        },
-        {
-            "id": "34e114a0-4a62-408b-a748-be1098e46cf0",
-            "name": "CARTER_1234"
-        },
-        {
-            "id": "ecb30131-6f4a-4bb8-85ae-6b6c6fc08566",
-            "name": "Stereo528"
-        },
-        {
-            "id": "4a69324d-bd3c-4052-8969-df3d486774f1",
-            "name": "LizzyTheWitch"
-        },
-        {
-            "id": "ad2ebdb9-c7be-4aa3-9241-85d145470625",
-            "name": "ProtFox"
-        }
-    ]
-}
+[
+    {
+        "username": "asoji",
+        "uuid": "2036c4da-effa-4982-8c74-37190cfb30d5",
+        "reason": "Lead Developer",
+        "capes": [
+            "inner",
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "bluebeargreen",
+        "uuid": "bd7e2c04-9d9d-4d42-b60d-ed784c4c2cd0",
+        "reason": "",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "BluSpring",
+        "uuid": "031c8ca8-03b1-41a3-a745-fc0415a67adf",
+        "reason": "Helped countless of times with code",
+        "capes": [
+            "inner",
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "CARTER_1234",
+        "uuid": "34e114a0-4a62-408b-a748-be1098e46cf0",
+        "reason": "Art",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "CephalonCosmic",
+        "uuid": "5f34ab11-a669-47b0-8cc8-2d60767d47b7",
+        "reason": "Helped with code, also playtest",
+        "capes": [
+            "inner",
+            "softer"
+        ]
+    },
+    {
+        "username": "Dove_612",
+        "uuid": "87789563-ea0a-47f7-b777-8022212d52c7",
+        "reason": "Helped with Structures",
+        "capes": [
+            "desolated"
+        ]
+    },
+    {
+        "username": "LizzyTheWitch",
+        "uuid": "4a69324d-bd3c-4052-8969-df3d486774f1",
+        "reason": "Playtest feedback",
+        "capes": [
+            "desolated"
+        ]
+    },
+    {
+        "username": "IThundxr",
+        "uuid": "e67eb09a-b5af-4822-b756-9065cdc49913",
+        "reason": "Developed the cape code",
+        "capes": [
+            "inner",
+            "softer"
+        ]
+    },
+    {
+        "username": "ProtFox",
+        "uuid": "ad2ebdb9-c7be-4aa3-9241-85d145470625",
+        "reason": "Helped with code, also help with worldgen",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "SirOwlie",
+        "uuid": "4ca402bd-1251-4931-b92c-46464ff11392",
+        "reason": "Built structures for demonstration of Softer Pastels, built structures for Desolated Pastels",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "Stereo528",
+        "uuid": "ecb30131-6f4a-4bb8-85ae-6b6c6fc08566",
+        "reason": "Helped with some code and feedback",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    {
+        "username": "ZenithKnight",
+        "uuid": "3d60771c-b620-4719-bf44-3b038bcbf246",
+        "reason": "Made the Mallard model and textures, also made the Softer Pastels cape texture",
+        "capes": [
+            "softer",
+            "desolated"
+        ]
+    },
+    
+]
