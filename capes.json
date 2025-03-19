@@ -104,6 +104,8 @@
         "uuid": "da2b241a-4b03-4bc5-a184-336fbc2a6c47",
         "reason": "Contributed Mallard food textures",
         "capes": [
+            "inner",
+            "softer",
             "desolated"
         ]
     },
