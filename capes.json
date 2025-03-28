@@ -117,5 +117,13 @@
             "softer",
             "desolated"
         ]
+    },
+    {
+        "username": "Jarfeh",
+        "uuid": "4d2bb3a0-60d1-406f-9055-b60b2a46954c",
+        "reason": "Contributed and cleaned up Tanuki sound files",
+        "capes": [
+            "desolated"
+        ]
     }
 ]
