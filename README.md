@@ -20,7 +20,7 @@ Softer Pastels
   - Fixing features
   - Playtesting during playtest phases
 
-Desolated Pastels
+Vastels
   - Contributing Kotlin code changes
   - Art [any textures]
   - Structures
