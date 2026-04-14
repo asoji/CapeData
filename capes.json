@@ -6,7 +6,7 @@
         "capes": [
             "inner",
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -15,7 +15,7 @@
         "reason": "",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -25,7 +25,7 @@
         "capes": [
             "inner",
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -34,7 +34,7 @@
         "reason": "Made the good textures for the mods",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -44,7 +44,7 @@
         "capes": [
             "inner",
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -52,7 +52,7 @@
         "uuid": "87789563-ea0a-47f7-b777-8022212d52c7",
         "reason": "Helped with Structures",
         "capes": [
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -60,7 +60,7 @@
         "uuid": "4a69324d-bd3c-4052-8969-df3d486774f1",
         "reason": "Playtest feedback",
         "capes": [
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -78,7 +78,7 @@
         "reason": "Helped with code, also help with worldgen",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -87,7 +87,7 @@
         "reason": "Built structures for demonstration of Softer Pastels, built structures for Desolated Pastels",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -96,7 +96,7 @@
         "reason": "Helped with some code and feedback",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -106,7 +106,7 @@
         "capes": [
             "inner",
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -115,7 +115,7 @@
         "reason": "Made the Mallard model and textures, also made the Softer Pastels cape texture",
         "capes": [
             "softer",
-            "desolated"
+            "vastels"
         ]
     },
     {
@@ -123,7 +123,7 @@
         "uuid": "4d2bb3a0-60d1-406f-9055-b60b2a46954c",
         "reason": "Contributed and cleaned up Tanuki sound files",
         "capes": [
-            "desolated"
+            "vastels"
         ]
     }
 ]
