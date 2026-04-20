@@ -9,19 +9,19 @@ Just contribute to one of the Pastel mods I work on
 ## Eligibility:
 
 Inner Pastels
-  - Contributing Kotlin code changes
+  - Contributing Java/Kotlin and/or Gradle buildscript code changes
   - Adding features
   - Fixing features
 
 Softer Pastels
-  - Contributing Kotlin code changes
+  - Contributing Java/Kotlin and/or Gradle buildscript code changes
   - Art [any textures]
   - Adding features [block types, items, etc]
   - Fixing features
   - Playtesting during playtest phases
 
 Vastels
-  - Contributing Kotlin code changes
+  - Contributing Java/Kotlin and/or Gradle buildscript code changes
   - Art [any textures]
   - Structures
   - Adding features [mobs, block types, items, worldgen, etc]
